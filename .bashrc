@@ -1,0 +1,1 @@
+alias meal='node .'

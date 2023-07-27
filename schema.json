@@ -1,0 +1,19 @@
+{
+  "Recipes": [
+    {
+      "name": "string",
+      "serves": "string",
+      "prepTime": "string",
+      "cookTime": "string",
+      "ingredients": [
+        {
+          "name": "string",
+          "quantity": number,
+          "unit": "string"
+        },
+        {...}
+      ]
+    },
+    {...}
+  ]
+}
