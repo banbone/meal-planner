@@ -215,6 +215,84 @@
       ]
     },
     {
+      "name": "Chicken Pathia with Turmeric Rice and Naan",
+      "serves": "2",
+      "prepTime": "10",
+      "cookTime": "35",
+      "ingredients": [
+        {
+          "name": "brown onion",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "garlic clove",
+          "quantity": 3,
+          "unit": null
+        },
+        {
+          "name": "coriander",
+          "quantity": 5,
+          "unit": "g"
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "white rice",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": 15,
+          "unit": "g"
+        },
+        {
+          "name": "ground turmeric",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground cumin",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "naan",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "cayenne pepper",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground paprika",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "curry powder",
+          "quantity": 0.5,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
       "name": "Spicy Cajun-Style Basa & Green Pepper Stew",
       "serves": "2",
       "prepTime": "10",
