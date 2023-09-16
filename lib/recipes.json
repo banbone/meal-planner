@@ -231,7 +231,7 @@
           "unit": null
         },
         {
-          "name": "coriander",
+          "name": "fresh coriander",
           "quantity": 5,
           "unit": "g"
         },
@@ -1760,6 +1760,74 @@
           "name": "white rice",
           "quantity": 130,
           "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Turmeric Basa with Sambal Tomat and Coconut Rice",
+      "serves": "2",
+      "prepTime": "10",
+      "cookTime": "35",
+      "ingredients": [
+        {
+          "name": "shallot",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "tomato",
+          "quantity": 3,
+          "unit": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 0.5,
+          "unit": null
+        },
+        {
+          "name": "fresh coriander",
+          "quantity": 5,
+          "unit": "g"
+        },
+        {
+          "name": "basa fillet",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "white wine vinegar",
+          "quantity": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "white rice",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "solid creamed coconut",
+          "quantity": 25,
+          "unit": "g"
+        },
+        {
+          "name": "ginger garlic paste",
+          "quantity": 15,
+          "unit": "g"
+        },
+        {
+          "name": "dried chilli flakes",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground turmeric",
+          "quantity": 0.5,
+          "unit": "tsp"
         }
       ]
     },
