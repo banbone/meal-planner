@@ -1585,6 +1585,74 @@
       ]
     },
     {
+      "name": "Manchurian Chilli Paneer with Sesame Fried Rice",
+      "serves": "2",
+      "prepTime": "10",
+      "cookTime": "20",
+      "ingredients": [
+        {
+          "name": "green pepper",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "spring onion",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "tomato ketchup",
+          "quantity": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "peas",
+          "quantity": 140,
+          "unit": "g"
+        },
+        {
+          "name": "ginger garlic paste",
+          "quantity": 15,
+          "unit": "g"
+        },
+        {
+          "name": "dried chilli flakes",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "paneer",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "white rice",
+          "quantity": 160,
+          "unit": "g"
+        },
+        {
+          "name": "cornflour",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "sriracha",
+          "quantity": 8,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
       "name": "Chicken Satay with Pickled Chilli Cucumber",
       "serves": "2",
       "prepTime": "10",
