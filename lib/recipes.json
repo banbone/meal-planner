@@ -1832,6 +1832,84 @@
       ]
     },
     {
+      "name": "Falafel Kebab with Tahini Yoghurt, Harissa & Chips",
+      "serves": "2",
+      "prepTime": "10",
+      "cookTime": "50",
+      "ingredients": [
+        {
+          "name": "lemon",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "red onion",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "tomato",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "gem lettuce",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "garlic clove",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "fresh parsley",
+          "quantity": 10,
+          "unit": "g"
+        },
+        {
+          "name": "tahini",
+          "quantity": 15,
+          "unit": "g"
+        },
+        {
+          "name": "potato",
+          "quantity": 3,
+          "unit": null
+        },
+        {
+          "name": "chickpeas",
+          "quantity": 370,
+          "unit": "g"
+        },
+        {
+          "name": "harissa paste",
+          "quantity": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "natural yoghurt",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "vegetable stock cube",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "pitta bread",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "ground cumin",
+          "quantity": 3,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
       "name": "Hoisin Glazed Pork Belly Hirata Buns",
       "serves": "2",
       "prepTime": "10",
@@ -1969,6 +2047,64 @@
           "name": "nigella seeds",
           "quantity": 1,
           "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Chilli-Cheese Naan with Tandoori Chicken",
+      "serves": "2",
+      "prepTime": "10",
+      "cookTime": "40",
+      "ingredients": [
+        {
+          "name": "red pepper",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "cheddar cheese",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "spinach",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "green chilli",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "natural yoghurt",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "naan bread",
+          "quantity": 2,
+          "unit": null
+        },
+        {
+          "name": "curry powder",
+          "quantity": 1,
+          "unit": "tbsp"
         }
       ]
     },
