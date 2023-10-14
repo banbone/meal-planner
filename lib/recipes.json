@@ -1371,7 +1371,7 @@
       ]
     },
     {
-      "name": "Oven-baked Korean-style Pork Rice Bowl",
+      "name": "Oven-baked Korean-style Chicken Rice Bowl",
       "serves": "2",
       "prepTime": "10",
       "cookTime": "20",
@@ -1397,77 +1397,9 @@
           "unit": null
         },
         {
-          "name": "pork mince",
-          "quantity": 250,
-          "unit": "g"
-        },
-        {
-          "name": "mirin",
-          "quantity": 15,
-          "unit": "ml"
-        },
-        {
-          "name": "cider vinegar",
-          "quantity": 15,
-          "unit": "ml"
-        },
-        {
-          "name": "black sesame seeds",
-          "quantity": 5,
-          "unit": "g"
-        },
-        {
-          "name": "white rice",
-          "quantity": 160,
-          "unit": "g"
-        },
-        {
-          "name": "chicken stock cube",
-          "quantity": 0.5,
-          "unit": null
-        },
-        {
-          "name": "gochujang paste",
-          "quantity": 30,
-          "unit": "g"
-        },
-        {
-          "name": "mayonnaise",
-          "quantity": 30,
-          "unit": "ml"
-        }
-      ]
-    },
-    {
-      "name": "Oven-baked Korean-style Pork Rice Bowl",
-      "serves": "2",
-      "prepTime": "10",
-      "cookTime": "20",
-      "ingredients": [
-        {
-          "name": "red pepper",
-          "quantity": 1,
-          "unit": null
-        },
-        {
-          "name": "garlic clove",
+          "name": "chicken breast",
           "quantity": 2,
           "unit": null
-        },
-        {
-          "name": "soy sauce",
-          "quantity": 8,
-          "unit": "ml"
-        },
-        {
-          "name": "cucumber",
-          "quantity": 0.5,
-          "unit": null
-        },
-        {
-          "name": "pork mince",
-          "quantity": 250,
-          "unit": "g"
         },
         {
           "name": "mirin",
