@@ -1790,54 +1790,39 @@
           "unit": null
         },
         {
-          "name": "garlic clove",
-          "quantity": 2,
-          "unit": null
-        },
-        {
           "name": "fresh parsley",
           "quantity": 10,
           "unit": "g"
         },
         {
-          "name": "tahini",
-          "quantity": 15,
-          "unit": "g"
+          "name": "oven chips",
+          "quantity": 2,
+          "unit": "portions"
         },
         {
-          "name": "potato",
-          "quantity": 3,
-          "unit": null
-        },
-        {
-          "name": "chickpeas",
-          "quantity": 370,
-          "unit": "g"
-        },
-        {
-          "name": "harissa paste",
-          "quantity": 20,
-          "unit": "ml"
-        },
-        {
-          "name": "natural yoghurt",
-          "quantity": 80,
-          "unit": "g"
-        },
-        {
-          "name": "vegetable stock cube",
-          "quantity": 1,
+          "name": "small falafel",
+          "quantity": 8,
           "unit": null
         },
         {
           "name": "pitta bread",
-          "quantity": 2,
+          "quantity": 4,
           "unit": null
         },
         {
-          "name": "ground cumin",
-          "quantity": 3,
+          "name": "hummus",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "dried oregano",
+          "quantity": 1,
           "unit": "tsp"
+        },
+        {
+          "name": "sweet chilli sauce",
+          "quantity": 4,
+          "unit": "tbsp"
         }
       ]
     },
