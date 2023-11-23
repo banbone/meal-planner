@@ -1,4 +1,4 @@
-meals: print out a shopping list based on a list of recipes
+meal: print out a shopping list based on a list of recipes
 
 First option must be a mode selector:
   -l,--list   List all available recipes   
@@ -6,7 +6,7 @@ First option must be a mode selector:
   -n,--new    New shopping list
   -h,--help   Print this message
 
-Usage: meals -l|-i <i>|-n <i> ... <i>|-h
+Usage: meal -l|-i <i>|-n <i> ... <i>|-h
   -l                    Requires no input. Will list all available recipes
                         with their respective index number.
 

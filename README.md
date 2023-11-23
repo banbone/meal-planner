@@ -28,3 +28,16 @@ Usage: meals -l|-i <i>|-n <i> ... <i>|-h
 
 Written by banbone                                            Fri 20th Jan 2023
 ```
+
+## Installation
+Clone down the repo and run the install.sh script to get everything in the correct place. I recommend installing in your home directory as I wasn't clever enough to plan out anything else 🎉
+
+```sh
+cd ~
+git clone https://github.com/banbone/meal-planner.git
+cd meal-planner
+./install.sh
+```
+
+## Dependencies
+It's not too fussy, it just needs nodejs!

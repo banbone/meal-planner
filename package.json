@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "makes a shopping list from a list of recipes chosen each week",
   "main": "index.js",
-  "bin": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
+    "app": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "banbone",
