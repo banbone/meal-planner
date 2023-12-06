@@ -1,6 +1,7 @@
 {
   "name": "meal_planner",
   "version": "1.0.0",
+  "type": "module",
   "description": "makes a shopping list from a list of recipes chosen each week",
   "main": "index.js",
   "directories": {
@@ -8,8 +9,14 @@
   },
   "scripts": {
     "app": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest --run --reporter verbose"
   },
   "author": "banbone",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
