@@ -2,10 +2,10 @@ import * as fs from 'fs';
 
 // retrieves and prints the help message stored in a
 // text file (lib/help.txt)
-export const printHelpMessage = function () {
+export const printHelpMessage = function (path) {
   let message;
   try {
-    message = fs.readFileSync('lib/help.txt', 'utf8');
+    message = fs.readFileSync(`${path}/lib/help.txt`, 'utf8');
     console.log(message.toString());
   } catch (err) {
     console.error(err);
