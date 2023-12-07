@@ -1,9 +1,9 @@
 import * as fs from 'fs';
 
-export const loadAll = function() {
+export const loadAll = function(path) {
   let body;
   try {
-    const content = fs.readFileSync('lib/recipes.json', 'utf8');
+    const content = fs.readFileSync(`${path}/lib/recipes.json`, 'utf8');
     body = JSON.parse(content);
   } catch (err) {
     body = err;
