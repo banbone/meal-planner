@@ -58,7 +58,7 @@ export const userInput = function(args) {
       const argArr = [args[1]]
       sanitisedInput = inputSanitiser(argArr);
       inputArr.push(sanitisedInput.out[0]);
-      if (!inputArr[0]) {
+      if (inputArr.length === 0) {
         modeSelector = 'error';
         errorMsg = 'noInput';
       };
@@ -67,10 +67,10 @@ export const userInput = function(args) {
     case '--new':
       if (args[1] == 'random') {
         modeSelector = 'random';
-        const argArr = [args[2]];
+        const argArr = args.slice(2);
         sanitisedInput = inputSanitiser(argArr);
         inputArr.push(sanitisedInput.out[0]);
-        if (!inputArr[0]) {
+        if (inputArr.length === 0) {
           modeSelector = 'error';
           errorMsg = sanitisedInput.err ? sanitisedInput.err : 'noInput';
         };
@@ -78,9 +78,9 @@ export const userInput = function(args) {
         modeSelector = 'new';
         sanitisedInput = inputSanitiser(args.slice(1));
         sanitisedInput.out.forEach(function(element) {
-          inputArr.push(element);
+          inputArr.push(element - 1);
         });
-        if (!inputArr[0]) {
+        if (inputArr.length === 0) {
           modeSelector = 'error';
           errorMsg = sanitisedInput.err ? sanitisedInput.err : 'noInput';
         };
